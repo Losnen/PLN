@@ -1,0 +1,9 @@
+La Minería de Textos es una tecnología emergente cuyo objeto es la búsqueda de conocimiento en grandes colecciones de documentos no estructurados.
+
+La minería de textos se refiere al proceso de derivar información nueva de textos.
+
+Minería de texto. La minería de texto consiste en descubrir, a partir de cantidades de texto grandes, el conocimiento que no está literalmente escrito en cualquiera de los documentos. Esto incluye buscar tendencias, promedios, desviaciones, dependencias, etc. Es el área emergente, y muy interesante, del procesamiento de texto y minería de datos.
+
+Se suele confundir la minería de textos con la minería de datos, pero lo diferenciaremos porque en la minería de datos la información se obtiene normalmente de bases de datos, en la que la información está estructurada. Por este motivo es más sencilla la extracción de la información de una base de datos, que está pensada para que se pueda tratar su información de manera automática, al contrario a lo que ocurre en la minería de textos.
+
+La minería de datos es el proceso de descubrimiento de conocimiento para encontrar información no trivial, desconocida y potencialmente útil en grandes repositorios de datos. La minería de datos es un área multidisciplinaria donde convergen diferentes paradigmas de computación como son la construcción de árboles de decisión, la inducción de reglas, las redes neuronales artificiales, el descubrimiento basado en instancias, programación lógica, algoritmos estadísticos, etc. Las principales tareas y métodos de la minería de datos son: clasificación, agrupamiento, estimación, modelado de dependencias y descubrimiento de reglas.

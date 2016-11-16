@@ -1,0 +1,63 @@
+Mineria de Textos o Text Mining
+
+En esta pagina se pretenden explicar los conceptos mas importantes que definen la mineria de textos o text mining como tecnica de recuperacion y organizacion de la informacion
+
+
+Es una de las ramas de la lingüística computacional que trata de obtener informacion y conocimiento a partir de conjuntos de datos que en principio no tienen un orden o no estan dispuestos en origen para transmitir esa informacion
+Es una tecnica clave en un mundo como el actual en el que continuamente se recogen datos desde distintas perspectivas y de muchos aspectos diferentes de todas las actividades propias de los seres humanos.
+Concepto / Definicion / Introduccion de la mineria de textos como tecnica de recuperacion y organizacion de la informacion
+
+Es imprescindible para entender lo que es la Mineria de Textos o Text Mining, tener claro antes lo que es el Data Mining:
+Este ultimo concepto surgió hace ya mas de cinco años para ayudar a la comprensión de los contenidos de las bases de datos. En cualquier acto de comunicación o de tratamiento de información, de lo que se trata es de adquirir conocimiento a partir de unos datos originales. Para el Data Mining los datos son la materia prima bruta a los que los usuarios dan un significado convirtiendolos en información que posteriormente sera tratada y utilizada por los especialistas para convertirlos en conocimiento.
+El data mining a conseguido reunir las ventajas de áreas como la Estadística, la Inteligencia Artificial, la Computación Gráfica, las Bases de Datos y el Procesamiento Masivo, las bases de datos como materia prima. Molina y otros lo definirían como "la integración de un conjunto de áreas que tienen como propósito la identificación de un conocimiento obtenido a partir de las bases de datos que aporten un sesgo hacia la toma de decisión" (Molina y otros, 2001).
+Entendido que es el Data Mining, podemos extrapolar la misma idea a la Minería de Textos o Text mining. Los datos a tratar con esta técnica serán, en lugar de los datos de las bases de datos, los documentos y textos de las organizaciones, administraciones, compañías, etc.
+El Text Mining no se debe confundir con la recuperación de la información, que es la recuperación automática de documentos relevantes mediante indexaciones de textos, clasificación, categorización, etc. La información que realmente le interesaría a la minería de textos es aquella contenida en esos documentos pero de manera general, es decir, no esta contenida en un texto en concreto sino que es la información global que tienen todos los registros, textos, documentos... de la colección en común. Es un análisis de los datos compartidos por todos los textos de la colección que se ofrece de manera indirecta, es decir, son informaciones que la colección dará a los especialistas pero que no fue específicamente incluida en esa colección en el momento de su creacion para su posterior difusion a los usuarios.
+Por tanto, podemos decir que la Mineria de Textos comprende tres actividades fundamentales:
+
+Recuperación de información, es decir, seleccionar los textos pertinentes.
+Extracción de la información incluida en esos textos: hechos, acontecimientos, datos clave, relaciones entre ellos, etc.
+Por ultimo se realizaria lo que antes definiamos como minería de datos para encontrar asociaciones entre esos datos claves previamente extraidos de entre los textos
+
+En resumen, la minería de textos pueden ayudar a que la información implícita en los documentos más explícitos, que le ahorra tiempo y dinero. Echa un vistazo a nuestra página de servicios para descubrir la gama de servicios que actualmente ofrecemos. El text mining se apoya en otras técnicas como:
+categorización de texto
+procesamiento de lenguaje natural
+extracción y recuperación de la información
+aprendizaje automático
+
+ Volver al Inicio
+¿Para que sirve la Minería de Textos o Text Mining? ¿Cuales son sus usos? ¿Es util para la recuperacion y organizacion de la informacion?
+
+
+Es muy útil para todas la compañías, administraciones y organizaciones en general que por las características propias de su funcionamiento, composición y actividades generan gran cantidad de documentos y que están interesadas en obtener informacion a partir de todo ese volumen de datos. Les puede servir para conocer mejor a sus clientes, cuales son sus hábitos, preferencias,...
+Un ejemplo claro de la utilizacion de las tecnicas de mineria de textos lo realizó Hearst en 1999 y es incluido como ejemplo en el articulo en “Data mining: torturando a los datos hasta que confiesen” de Luis Carlos Molina Félix. En el describe como Don Swanson trato de extraer información a partir de colecciones de texto y demostró cómo cadenas de implicaciones causales dentro de la literatura médica pueden conducir a hipótesis para enfermedades poco frecuentes, como por ejemplo ocurrio con la migraña. Se pudieron extraer evidencias a partir de varios articulos de literatura biomedica y algunas de las claves fueron:
+El estrés está asociado con la migraña.
+El estrés puede conducir a la pérdida de magnesio.
+Los bloqueadores de canales de calcio previenen algunas migrañas.
+El magnesio es un bloqueador natural del canal de calcio.
+La depresión cortical diseminada (DCD) está implicada en algunas migrañas.
+Los niveles altos de magnesio inhiben la DCD.
+Los pacientes con migraña tienen una alta agregación plaquetaria.
+El magnesio puede suprimir la agregación plaquetaria.
+
+Estas evidencias permitieron crear una hipótesis que no existía en la literatura científica como tal pero que se pudo encontrar de manera indirecta haciendo un análisis diferente de los textos. Según Swanson (Swanson y otros, 1994), estudios posteriores probaron experimentalmente esta hipótesis obtenida por text mining con buenos resultados.
+De la misma manera, analizando por ejemplo las fichas de entrada en una fabrica es posible obtener información sobre los trabajadores que sellan al entrar y al salir. Estudiándolas detenidamente se podría averiguar si existe algún día en el que esos trabajadores entran o salen mas tarde de lo normal, si existe algún departamento en el que los trabajadores suelen salir mas tarde, la incidencia de faltas o retrasos en función de las fechas, etc.
+
+ Volver al Inicio
+¿Como hacer minería de textos (Text Mining)?
+
+
+Es una técnica relativamente nueva, cambiante y que puede adaptarse a diferentes situaciones y casos, por lo que no existe un método estricto a seguir siempre. Sin embargo, en términos generales se podría decir que estas son las cuatro etapas principales:
+Primera	Determinación de los objetivos. Aclarar que es lo que se esta buscando con esta investigacion, acotando hasta que punto se quiere profundizar en la misma y definiendo claramente los limites.
+Segunda	Preprocesamiento de los datos, que seria la selección, análisis y reducción de los textos o documentos de los que se extraerá la información. Esta etapa consume la mayor parte del tiempo.
+Tercera	Determinación del modelo. Según los objetivos planteados y la tarea que debe llevarse a cabo, pueden utilizarse unas técnicas u otras.
+Cuarta	Análisis de los resultados. A partir de los datos extraidos se tratara de ver su coherencia y se buscaran evidencias, similitudes, excepciones, etc, que puedan servir al especialista o al usuario que haya encargado el estudio para extraer conclusiones que pueda utilizar para mejorar algún aspecto de su empresa, compañía, administración u organización en general.
+ Volver al Inicio
+Conclusiones sobre esta nueva tecnica de recuperacion y organizacion de la informacion
+
+
+La minería de textos es una tecnología recuperacion y organizacion de la informacion que aunque todavía es emergente y necesita ser mejor desarrollada, nos sirve para obtener un tipo de información muy útil en cualquier tipo de organización publica o privada.
+Económicamente es una técnica que puede utilizarse para ahorrar dinero y abrir oportunidades de negocio a las empresas.
+En cualquier organización, las conclusiones a las que se puede llegar a través del text mining pueden ser utilizadas para la toma de decisiones.
+Y todo esto es consecuencia del desarrollo tan abrumador que la sociedad de la información a supuesto en cuanto a la generación de información y nuestra capacidad para almacenarla. Cada vez es mas fácil recabar datos y guardarlos adecuadamente. El reto es saber aprovechar el potencial de conocimiento escondido en ellos. Gracias a técnicas de apoyo como el Text Mining se ha podido ver mas allá de lo que a simple vista ofrecen los documentos. Con esta y otras tecnicas de recuperacion y organizacion de la informacion se ha podido explorar, analizar, comprender y aplicar el conocimiento encerrado en los textos.
+En el ámbito comercial, resulta interesante encontrar patrones ocultos de consumo de los clientes para poder explorar nuevos horizontes. Saber que un vehículo deportivo corre un riesgo de accidente casi igual al de un vehículo normal cuando su dueño tiene un segundo vehículo en casa ayuda a crear nuevas estrategias comerciales para ese grupo de clientes. Asimismo, predecir el comportamiento de un futuro cliente, basándose en los datos históricos de clientes que presentaron el mismo perfil, ayuda a poder retenerlo durante el mayor tiempo posible.
+El campo de la minería de textos, text mining y data mining ofrece importantes expectativas profesionales para los documentalistas y los expertos en el campo de la información y las nuevas tecnologías. Su aplicación no siempre es sencilla y las organizaciones o administraciones que necesitan de estos estudios necesitaran consultar a expertos en el área para llevar a cabo estos estudios. Explicándole los objetivos el experto sabrá cual es la mejor manera de llevar a cabo el análisis de esos textos.
